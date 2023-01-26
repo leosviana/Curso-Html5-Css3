@@ -1,0 +1,112 @@
+ATALHOS PARA O VISUAL CODE
+(!) = Abre o padrão do HTML
+
+CÓDIGOS HTML5
+head = Cabeçalho e configuração da pagina
+body = Área de conteúdo da página
+UTF-8 = Padrão de codificação de caracteres para acentuação
+hr = Linha horizontal
+p = Paragrafo
+h1 = Título conteúdo
+<br> , [break row] = Quebra de linhas
+&lt;__&gt; = Coloca ao redor de uma tag se quiser que apareceça na página com <>
+<!-- ___ --> = Comentários no HTML5
+&#x_____ = Valor em hexadecimal (Emoji)
+Ctrl + Shift + P = Colocar textos dentro de tags
+b = Negrito antigo
+strong = Negrito atual
+i = Itálico antigo
+em = Itálico atual
+mark = Marcar texto
+big = Texto grande antigo
+small = Texto pequeno atual
+del = Texto excluído (riscado)
+ins = Texto incluído (sublinhado)
+u = Texto sublinhado
+sup = Subir texto
+sub = Descer texto
+code = Para texto parecer como código
+pre = Para manter a identação
+Shift + Tab = Traz o texto selecionado para a esquerda
+q = Citações simples
+cite = Endereço da citação na web
+abbr = Significado de abreviação
+blockquote = Citação completa
+bdo - r = Coloca o texto invertido
+a = Colocar links
+rel="external" = Link externo
+rel="prev" = Página anterior
+rel="next" = Próxima página
+target="_black" = Abrir nova página
+illow = Estar informando que não dou o aval
+../ = Pasta anterior
+audio src = Incluir audio no site
+audio = Faz o mesmo
+preload="metadata" = Carrega as informações de áudio
+preload="none" = Não carrega nada
+preload="auto" = Carrega todo o arquivo antes de tocar
+control = Aparece o controle play no site
+loop = Quando terminar, começa de novo
+autoplay = Começa o video automaticamente
+
+CÓDIGOS CSS3
+font-family = Família de fontes
+font-size = Tamanho da font
+font-weight = Peso da fonte
+/*__*/ = Comentarios dentro do CSS3
+cm = Centimetros
+mm = Milimetros
+in = Polegada
+pixel = Pixels (recomendado)
+pt = Ponto (Não recomendado)
+pc = Paica (Não recomendado)
+em = Altura M (Mais recomendado)
+ex = Altura X
+rem = Relativo à fonte configurada no "body"
+vw = Largura da tela (Porcentagem da tela)
+vh = Altura da tela (Porcentagem da tela)
+% = Porcentagem
+Weight = Peso
+----CAIXA----
+width = Largura
+height = Altura
+padding = Acochoamento ou preenchimento (da borda para centro)
+border = Linha ao redor do conteúdo (Borda)
+margin = Margem (Da borda para fora)
+outline = Contorno ou traçado (Fora do elemento)
+-------------
+
+CAIXA-> box-level
+Sempre se inicia em uma linha nova, largura sempre 100%
+<div></div> = Divisão, blocos
+<h1>...<h6> = Tamanhos de textos
+<p> = Parágrafos
+<main> = Principal, inicio
+<header> = Cabeçalho
+<nav>
+<article> = Artigos
+<aside> 
+<footer> = Rodapé
+<form> = Formulário
+<video> = Video
+
+CAIXA-> inline-level
+Sempre começa na continuidade da linha, não ocupa a largura total, não quebra a linha,
+e se adequa ao tamanho do conteúdo.
+<span>
+<a> = Inserir links de navegação
+<code>
+<small>
+<strong> = Negrito
+<em>
+<sup>...<sub>
+<label>
+<button>
+<input>
+<select>
+
+Valores de peso para a fonte:
+Lighter = leve
+Normal
+bold - Negrito
+bolder = Extranegrito
