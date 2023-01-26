@@ -1,4 +1,4 @@
-![image](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/extras/CSS3_and_HTML5-300.jpg)
+![image](https://github.com/leosviana/Curso-Html5-Css3/blob/main/extras/CSS3_and_HTML5-300.jpg)
 
 # :books: Curso-HTML5-CSS3
 
