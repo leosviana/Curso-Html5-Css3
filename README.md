@@ -10,7 +10,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 # :file_folder: [PDF das Aulas]<!-- (https://github.com/leosviana/Curso-Html5-Css3/tree/main/html-css/aulas-pdf) --><br>
 
 # :information_source: Referência de Sites
-[MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
+[MDN Web Docs](https://developer.mozilla.org/pt-BR/) <a target="blank_"><br>
 [Web Design and Applications - W3C](https://www.w3.org/standards/webdesign/)<br>
 [HTML Standard](https://html.spec.whatwg.org/)<br>
 [W3Schools Online Web Tutorials](https://www.w3schools.com/)<<br>
