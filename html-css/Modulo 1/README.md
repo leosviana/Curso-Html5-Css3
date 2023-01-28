@@ -50,10 +50,10 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 # :scroll: Exercícios
 
 ### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex001/index.html)<br>
-:point_right: [Olá Mundo!](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex001/index.html)<br>
+:point_right: [Olá Mundo!](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex001/index.html)<br>
 
-<!-- ### Exercício 02: Código :arrow_right:  [Parágrafos e quebras de linhas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex002/index.html)<br>
-:point_right: [Parágrafos e quebras de Linhas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex002/index.html) -->
+### Exercício 02: Código :arrow_right:  [Parágrafos e quebras de linhas](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex002/index.html)<br>
+:point_right: [Parágrafos e quebras de Linhas](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex002/index.html)
 
 <!-- ### Exercício 03: Código :arrow_right:  [Teste com Imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex003/index.html)<br>
 :point_right: [Testando carga e Imagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex003/index.html) -->
