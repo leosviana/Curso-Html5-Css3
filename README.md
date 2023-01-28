@@ -4,7 +4,7 @@
 
 Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) com o Professor Gustavo Guanabara.
 
-# :file_folder: [Módulo 01]<!-- (https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/README.md) --><br>
+# :file_folder: [Módulo 01](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/README.md)<br>
 # :file_folder: [Módulo 02]<!-- (https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%202/README.md) --><br>
 # :file_folder: [Módulo 03]<!-- (https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%203/README.md) --><br>
 # :file_folder: [PDF das Aulas]<!-- (https://github.com/leosviana/Curso-Html5-Css3/tree/main/html-css/aulas-pdf) --><br>
