@@ -49,7 +49,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex001/index.html)<br>
+### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex001/index.html)<br>
 :point_right: [Olá Mundo!](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex001/index.html)<br>
 
 <!-- ### Exercício 02: Código :arrow_right:  [Parágrafos e quebras de linhas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex002/index.html)<br>
