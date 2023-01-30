@@ -55,17 +55,17 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 02: Código :arrow_right:  [Parágrafos e quebras de linhas](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex002/index.html)<br>
 :point_right: [Parágrafos e quebras de Linhas](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex002/index.html)
 
-<!-- ### Exercício 03: Código :arrow_right:  [Teste com Imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex003/index.html)<br>
-:point_right: [Testando carga e Imagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex003/index.html) -->
+### Exercício 03: Código :arrow_right:  [Teste com Imagens](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex003/index.html)<br>
+:point_right: [Testando carga e Imagens](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex003/index.html)
 
-<!-- ### Exercício 04: Código :arrow_right:  [Teste de Favicon](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex004/index.html)<br>
-:point_right: [Olha o favicon aqui em cima](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex004/index.html) -->
+### Exercício 04: Código :arrow_right:  [Teste de Favicon](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex004/index.html)<br>
+:point_right: [Olha o favicon aqui em cima](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex004/index.html)
 
-<!-- ### Exercício 05: Código :arrow_right:  [Adicionando Emoji](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex005/index.html)<br>
-:point_right: [Exemplo de Emojis na página](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex005/index.html) -->
+### Exercício 05: Código :arrow_right:  [Adicionando Emoji](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex005/index.html)<br>
+:point_right: [Exemplo de Emojis na página](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex005/index.html)
 
-<!-- ### Exercício 06: Código :arrow_right:  [Hierarquia de Títulos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex006/index.html)<br>
-:point_right: [Entendendo Portugal](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex006/index.html) -->
+### Exercício 06: Código :arrow_right:  [Hierarquia de Títulos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex006/index.html)<br>
+:point_right: [Entendendo Portugal](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex006/index.html)
 
 <!-- ### Exercício 07: Código :arrow_right:  [Exemplo de Semântica](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex007/index.html)<br>
 :point_right: [Exemplo de Semântica](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex007/index.html) -->
