@@ -1,5 +1,7 @@
 ATALHOS PARA O VISUAL CODE
 (!) = Abre o padrão do HTML
+CTRL + B > Esconde o menu lateral esquedo
+CTRL + SHIFT + P > Digitar "abb" > inserir uma tag que está usando. Exemplo: "i", "p", "h1". Antes de fazer o comando, selecionar um texto para aplicar a configuração do atalho
 
 CÓDIGOS HTML5
 head = Cabeçalho e configuração da pagina
