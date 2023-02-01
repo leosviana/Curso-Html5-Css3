@@ -79,8 +79,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 08b: Código :arrow_right:  [Outras Formações](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex008b/index.html)<br>
 :point_right: [Outras Formações](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex008b/index.html)
 
-<!-- ### Exercício 09: Código :arrow_right:  [Listas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex009/index.html)<br>
-:point_right: [Trabalhando com Listas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex009/index.html) -->
+### Exercício 09: Código :arrow_right:  [Listas](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex009/index.html)<br>
+:point_right: [Trabalhando com Listas](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex009/index.html)
 
 <!-- ### Exercício 10: Código :arrow_right:  [Trabalhando com links](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex010/index.html)<br>
 :point_right: [Usando Links externos e internos](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex010/index.html) -->
