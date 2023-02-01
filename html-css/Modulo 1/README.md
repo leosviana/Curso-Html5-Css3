@@ -76,8 +76,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 08: Código :arrow_right:  [Formatação de Textos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex008/index.html)<br>
 :point_right: [Principais Formações](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex008/index.html)
 
-<!-- ### Exercício 08b: Código :arrow_right:  [Outras Formações](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008b/index.html)<br>
-:point_right: [Outras Formações](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex008b/index.html) -->
+### Exercício 08b: Código :arrow_right:  [Outras Formações](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex008b/index.html)<br>
+:point_right: [Outras Formações](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex008b/index.html)
 
 <!-- ### Exercício 09: Código :arrow_right:  [Listas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex009/index.html)<br>
 :point_right: [Trabalhando com Listas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex009/index.html) -->
