@@ -67,15 +67,14 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 06: Código :arrow_right:  [Hierarquia de Títulos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex006/index.html)<br>
 :point_right: [Entendendo Portugal](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex006/index.html)
 
-### Exercício 07: Código :arrow_right:  [Exemplo de Semântica](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex007/index.html)<br>
+### Exercício 07: Código :arrow_right:  [Exemplo de Semântica HTML4](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex007/html4.html)<br>
 :point_right: [Exemplo de Semântica HTML4](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex007/html4.html)
+
+### Exercício 07b: Código :arrow_right:  [Exemplo de Semântica HTML5](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex007/html5.html)<br>
 :point_right: [Exemplo de Semântica HTML5](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex007/html5.html)
 
-### Exercício 07b: Código :arrow_right:  [Meu Site HTML4](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex008/index.html)<br>
-:point_right: [Exemplo em HTML4](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex008/index.html)
-
-<!-- ### Exercício 08: Código :arrow_right:  [Formatação de Textos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008/index.html)<br>
-:point_right: [Principais Formações](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex008/index.html) -->
+### Exercício 08: Código :arrow_right:  [Formatação de Textos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex008/index.html)<br>
+:point_right: [Principais Formações](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex008/index.html)
 
 <!-- ### Exercício 08b: Código :arrow_right:  [Outras Formações](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008b/index.html)<br>
 :point_right: [Outras Formações](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex008b/index.html) -->
