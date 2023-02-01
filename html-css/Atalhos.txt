@@ -36,6 +36,20 @@ abbr = Significado de abreviação
 blockquote = Citação completa
 bdo - rtl = Coloca o texto invertido (Direita para esquerda)
 bdo - ltr = Coloca o texto normal (Esquerda para direita)
+ol = Lista ordenada (Ordened List)
+li = Item de lista (List Item)
+ol - type = Tipos de listas
+    >1: Numerico
+    >A: Alfabetico maisculo
+    >a: Alfabetico minusculo
+    >I: Algarismo romanos maisculo
+    >i: Algarismo romanos minusculo
+ol - start = Iniciar a sequencia a partir de...
+ul - Lista não ordenadas (Unordened List)
+ul - type = Tipos de listas
+    >disc: Bolinha Preta
+    >circle: Bolinha vazia
+    >square: Quadrado
 a = Colocar links
 rel="external" = Link externo
 rel="prev" = Página anterior
