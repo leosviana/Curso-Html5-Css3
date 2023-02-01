@@ -34,7 +34,8 @@ q = Citações simples
 cite = Endereço da citação na web
 abbr = Significado de abreviação
 blockquote = Citação completa
-bdo - r = Coloca o texto invertido
+bdo - rtl = Coloca o texto invertido (Direita para esquerda)
+bdo - ltr = Coloca o texto normal (Esquerda para direita)
 a = Colocar links
 rel="external" = Link externo
 rel="prev" = Página anterior
