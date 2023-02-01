@@ -100,9 +100,9 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 <!-- ### Exercício 15: Código :arrow_right:  [Estilos Extenos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex015/index.html)<br>
 :point_right: [Estilos 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex015/index.html) -->
 
-<!-- # :keyboard: Desafios
-### Desafio 01: Código :arrow_right:  [Desafio das Mensagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d001/index.html)<br>
-:point_right: [Desafios das Mensagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d001/index.html)<br> -->
+# :keyboard: Desafios
+### Desafio 01: Código :arrow_right:  [Desafio das Mensagens](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d001/index.html)<br>
+:point_right: [Desafios das Mensagens](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d001/index.html)<br>
 
 <!-- ### Desafio 02: Código :arrow_right:  [Desafio das imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d002/Index.html)<br>
 :point_right: [Desafio das Mensagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d002/Index.html)<br> -->
