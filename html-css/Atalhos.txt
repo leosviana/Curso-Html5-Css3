@@ -50,6 +50,9 @@ ul - type = Tipos de listas
     >disc: Bolinha Preta
     >circle: Bolinha vazia
     >square: Quadrado
+dl = Lista de definição (Dicionário)
+dl - dt = Termo
+dl - dd = Descrição
 a = Colocar links
 rel="external" = Link externo
 rel="prev" = Página anterior
