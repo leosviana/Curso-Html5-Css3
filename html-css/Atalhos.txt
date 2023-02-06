@@ -57,8 +57,9 @@ a = Colocar links
 rel="external" = Link externo
 rel="prev" = Página anterior
 rel="next" = Próxima página
-target="_black" = Abrir nova página
-illow = Estar informando que não dou o aval
+rel="nofollow" = Estar informando que não dou o aval da página
+target="_blank" = Abrir nova página
+target="_self" = Própria pagina
 ../ = Pasta anterior
 audio src = Incluir audio no site
 audio = Faz o mesmo
