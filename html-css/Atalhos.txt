@@ -61,6 +61,8 @@ rel="nofollow" = Estar informando que não dou o aval da página
 target="_blank" = Abrir nova página
 target="_self" = Própria pagina
 ../ = Pasta anterior
+download="nome_do_arquivo.extensao" = Faz download de um arquivo
+type="application/pdf" = tipo do arquivo para download. Verificar o tipo do seu arquivo no site: www.iana.org/assignments/media-types/media-types.xhtml
 audio src = Incluir audio no site
 audio = Faz o mesmo
 preload="metadata" = Carrega as informações de áudio
