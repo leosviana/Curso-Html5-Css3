@@ -82,8 +82,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 09: Código :arrow_right:  [Listas](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex009/index.html)<br>
 :point_right: [Trabalhando com Listas](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex009/index.html)
 
-<!-- ### Exercício 10: Código :arrow_right:  [Trabalhando com links](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex010/index.html)<br>
-:point_right: [Usando Links externos e internos](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex010/index.html) -->
+### Exercício 10: Código :arrow_right:  [Trabalhando com links](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex010/index.html)<br>
+:point_right: [Usando Links externos e internos](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex010/index.html)
 
 <!-- ### Exercício 11: Código :arrow_right:  [Mídias em HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex011/index.html)<br>
 :point_right: [Imagem Dinâmica](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex011/index.html) -->
