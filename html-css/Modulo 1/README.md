@@ -113,11 +113,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Desafio 04: Código :arrow_right:  [Meus emojis favoritos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d004/index.html)<br>
 :point_right: [Meus emojis favoritos](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d004/index.html)<br>
 
-<!-- ### Desafio 05: Código :arrow_right:  [Meu perfil social](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d005/index.html)<br>
-:point_right: [Meu perfil social](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d005/index.html)<br> -->
+### Desafio 05: Código :arrow_right:  [Meu perfil social](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d005/index.html)<br>
+:point_right: [Meu perfil social](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d005/index.html)<br>
 
-<!-- ### Desafio 06: Código :arrow_right:  [Tags em HTML](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d006/index.html)<br>
-:point_right: [Tags em HTML](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d006/index.html)<br> -->
+### Desafio 06: Código :arrow_right:  [Tags em HTML](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d006/index.html)<br>
+:point_right: [Tags em HTML](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d006/index.html)<br>
 
 <!-- ### Desafio 07: Código :arrow_right:  [Imagem Flexível](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d007/index.html)<br>
 :point_right: [Imagem Flexível](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d007/index.html)<br> -->
