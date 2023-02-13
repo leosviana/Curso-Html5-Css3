@@ -64,12 +64,12 @@ target="_self" = Própria pagina
 download="nome_do_arquivo.extensao" = Faz download de um arquivo
 type="application/pdf" = tipo do arquivo para download. Verificar o tipo do seu arquivo no site: www.iana.org/assignments/media-types/media-types.xhtml
 audio = Incluir audio no site (Compatível com MP3, WAP e OGG)
-audio - src = Incluir caminho do arquivo de audio
-control = Aparece o controle de audio de música no site
-autoplay = Começa o video automaticamente
-preload="metadata" = Carrega as informações de áudio
+audio - src="caminho_do_arquivo" = Incluir caminho do arquivo de audio
+audio - controls = Aparece o controle de audio de música no site
+audio - autoplay = Começa o video automaticamente
+audio - preload="metadata" = Carrega as informações de áudio
 preload="none" = Não carrega nada
-preload="auto" = Carrega todo o arquivo antes de tocar
+preload="auto" = Carrega todo o arquivo antes de tocar (Muito ruim e pesado para um site)
 loop = Quando terminar, começa de novo
 
 CÓDIGOS CSS3
