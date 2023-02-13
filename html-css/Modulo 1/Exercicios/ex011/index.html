@@ -24,8 +24,14 @@
         PRIMEIRA FORMA DE EXECUTAR AUDIO 
         <audio src="midia/mulholland-king-canyon.mp3" controls></audio> 
     -->
-    <audio>
-        <source media="(min-width: )" srcset="">
+    <audio preload="metadata" autoplay controls loop>
+        <source src="midia/guanacast-33.mp3" type="audio/mpeg"> <!-- 1ª TENTATIVA CARREGANDO COMO MP3 -->
+        <source src="midia/guanacast-33.ogg" type="audio/ogg"> <!-- 2ª TENTATIVA CARREGANDO COMO OGG -->
+        <source src="midia/guanacast-33.wav" type="audio/wav"> <!-- 3ª TENTATIVA CARREGANDO COMO WAV -->
+        <p>
+            Infelizmente seu navegador não consegue reproduzir audio. 
+            <a href="midia/guanacast-33.mp3"> Clique aqui para baixar o arquivo MP3</a>
+        </p>
     </audio>
     
     <!-- Compatível com MP3, WAV e OGG -->
