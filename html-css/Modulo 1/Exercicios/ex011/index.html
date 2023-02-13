@@ -20,10 +20,12 @@
 
     <h1>Reproduzindo Áudio</h1>
     <p>Vamos aprender a reproduzir áudios em HTML5.</p>
-    <!--
-        PRIMEIRA FORMA DE EXECUTAR AUDIO 
+    <!-- PRIMEIRA FORMA DE EXECUTAR AUDIO -->
+    <!-- 
         <audio src="midia/mulholland-king-canyon.mp3" controls></audio> 
     -->
+
+    <!-- SEGUNDA FORMA DE EXECUTAR AUDIO -->
     <audio preload="metadata" autoplay controls loop>
         <source src="midia/guanacast-33.mp3" type="audio/mpeg"> <!-- 1ª TENTATIVA CARREGANDO COMO MP3 -->
         <source src="midia/guanacast-33.ogg" type="audio/ogg"> <!-- 2ª TENTATIVA CARREGANDO COMO OGG -->
@@ -32,8 +34,7 @@
             Infelizmente seu navegador não consegue reproduzir audio. 
             <a href="midia/guanacast-33.mp3"> Clique aqui para baixar o arquivo MP3</a>
         </p>
-    </audio>
-    
-    <!-- Compatível com MP3, WAV e OGG -->
+    </audio>    
+    <!-- Compatível com MP3, OGG e WAV -->
 </body>
 </html>
