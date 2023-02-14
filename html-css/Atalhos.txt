@@ -71,6 +71,7 @@ audio - preload="metadata" = Carrega as informações de áudio
 preload="none" = Não carrega nada
 preload="auto" = Carrega todo o arquivo antes de tocar (Muito ruim e pesado para um site)
 loop = Quando terminar, começa de novo
+video =  Incluir audio no site (Compatível com MP4, WEBV e OGV)
 
 CÓDIGOS CSS3
 font-family = Família de fontes
