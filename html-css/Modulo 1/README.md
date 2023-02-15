@@ -89,7 +89,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Imagem Dinâmica](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex011/index.html)
 
 ### Exercício 12: Código :arrow_right:  [Vídeos co HTML5](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex012/index.html)<br>
-:point_right: [Inserindo vídeos hospedados localmente](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex012/index.html)
+:point_right: [Inserindo vídeos hospedados localmente e externamente](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex012/index.html)
 
 <!-- ### Exercício 13: Código :arrow_right:  [Estilos Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex013/index.html)<br>
 :point_right: [Estilos 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex013/index.html) -->
