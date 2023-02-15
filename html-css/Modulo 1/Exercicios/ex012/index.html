@@ -9,18 +9,28 @@
 </head>
 <body>
     <h1>Inserindo vídeos hospedados localmente</h1>
-    <p>Este vídeo está hospedado no meu prórprio servidor.</p>
+    <p>Este vídeo está hospedado no meu próprio servidor.</p>
+    <p>O serviço consumido é do meu próprio servidor.</p>
     <!-- PRIMEIRA FORMA DE EXECUTAR VÍDEO -->
     <!--
         <video src="midia/video.mp4" width="500" controls></video>
     -->
 
     <!-- SEGUNDA FORMA DE EXECUTAR VÍDEO -->
-    <video width="500" poster="midia/capa.png" controls>
+    <video width="500" poster="midia/capa.png" controls autoplay loop>
         <source src="midia/video.mp4" type="video/mp4">   <!-- 1ª TENTATIVA CARREGANDO COMO MP4 -->
         <source src="midia/video.webm" type="video/webm"> <!-- 2ª TENTATIVA CARREGANDO COMO WEBM -->
         <source src="midia/video.ogv" type="video/ogg">   <!-- 3ª TENTATIVA CARREGANDO COMO OGG -->
         <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
-    </video>    
+    </video>
+
+    <h1>Inserindo vídeos do Youtube</h1>
+    <p>Este vídeo está hospedado diretamente no Youtube.</p>
+    <p>O serviço consumido é do Youtube</p>
+    <iframe width="500" height="315" src="https://www.youtube.com/embed/CFMc9ZEPt0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <h1>Inserindo vídeos do Vimeo</h1>
+    <p>O serviço consumido é do Vimeo</p>
+    <iframe src="https://player.vimeo.com/video/185871317?h=a63f42bf1b" width="500" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
