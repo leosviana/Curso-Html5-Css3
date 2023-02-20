@@ -63,6 +63,8 @@ target="_self" = Própria pagina
 ../ = Pasta anterior
 download="nome_do_arquivo.extensao" = Faz download de um arquivo
 type="application/pdf" = tipo do arquivo para download. Verificar o tipo do seu arquivo no site: www.iana.org/assignments/media-types/media-types.xhtml
+img = Carrega uma imagem no site
+picture = carrega uma imagem dinâmica no site
 audio = Incluir audio no site (Compatível com MP3, WAP e OGG)
 audio - src="caminho_do_arquivo" = Incluir caminho do arquivo de audio
 audio - controls = Aparece o controle de audio de música no site
