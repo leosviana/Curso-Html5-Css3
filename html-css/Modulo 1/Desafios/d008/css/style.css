@@ -1,0 +1,23 @@
+/* PAGINA CINZA */
+.corpo_cinza{
+    background-color: #a5a5a5
+}
+.corpo_cinza .titulo{
+    color:#4b4b4b
+}
+
+/* PAGINA VERDE */
+.corpo_verde{
+    background-color: #33aa05
+}
+.corpo_verde .titulo{
+    color:#5cee22
+}
+
+/* PAGINA AMARELA */
+.corpo_amarelo{
+    background-color: #c0c000;
+}
+.corpo_amarelo .titulo {
+    color:#ebde27
+}
