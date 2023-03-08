@@ -1,0 +1,12 @@
+/* CORPO  */
+.corpo{
+    background-color: rgb(155, 167, 177);
+}
+
+/* TITULOS */
+.corpo .titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(32, 32, 32);
+}
