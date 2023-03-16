@@ -91,14 +91,14 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 12: Código :arrow_right:  [Vídeos co HTML5](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex012/index.html)<br>
 :point_right: [Inserindo vídeos hospedados localmente e externamente](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex012/index.html)
 
-<!-- ### Exercício 13: Código :arrow_right:  [Estilos Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex013/index.html)<br>
-:point_right: [Estilos 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex013/index.html) -->
+### Exercício 13: Código :arrow_right:  [Estilos Inline](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex013/index.html)<br>
+:point_right: [Estilos 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex013/index.html)
 
-<!-- ### Exercício 14: Código :arrow_right:  [Estilos Locais / Internos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex014/index.html)<br>
-:point_right: [Estilos 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex014/index.html) -->
+### Exercício 14: Código :arrow_right:  [Estilos Locais / Internos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex014/index.html)<br>
+:point_right: [Estilos 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex014/index.html)
 
-<!-- ### Exercício 15: Código :arrow_right:  [Estilos Extenos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex015/index.html)<br>
-:point_right: [Estilos 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex015/index.html) -->
+### Exercício 15: Código :arrow_right:  [Estilos Extenos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex015/index.html)<br>
+:point_right: [Estilos 3](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex015/index.html)
 
 # :keyboard: Desafios
 ### Desafio 01: Código :arrow_right:  [Desafio das Mensagens](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d001/index.html)<br>
@@ -119,11 +119,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Desafio 06: Código :arrow_right:  [Tags em HTML](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d006/index.html)<br>
 :point_right: [Tags em HTML](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d006/index.html)<br>
 
-<!-- ### Desafio 07: Código :arrow_right:  [Imagem Flexível](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d007/index.html)<br>
-:point_right: [Imagem Flexível](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d007/index.html)<br> -->
+### Desafio 07: Código :arrow_right:  [Imagem Flexível](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d007/index.html)<br>
+:point_right: [Imagem Flexível](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d007/index.html)<br>
 
-<!-- ### Desafio 08: Código :arrow_right:  [Desafio da Navegação](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d008/index.html)<br>
-:point_right: [Desafio da Navegação](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d008/index.html)<br> -->
+### Desafio 08: Código :arrow_right:  [Desafio da Navegação](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d008/index.html)<br>
+:point_right: [Desafio da Navegação](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d008/index.html)<br>
 
-<!-- ### Desafio 09: Código :arrow_right:  [Vídeos legais para assistir](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d009/index.html)<br>
-:point_right: [Vídeos legais para assistir](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d009/index.html)<br> -->
+### Desafio 09: Código :arrow_right:  [Vídeos legais para assistir](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Desafios/d009/index.html)<br>
+:point_right: [Vídeos legais para assistir](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Desafios/d009/index.html)<br>
