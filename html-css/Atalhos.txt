@@ -78,9 +78,13 @@ video - src="caminho_do_arquivo" = Incluir caminho do arquivo de video
 video - controls = Aparece o controle de video no site
 
 CÓDIGOS CSS3
+background-color = cor de fundo
+color = cor do conteudo
 font-family = Família de fontes
 font-size = Tamanho da font
 font-weight = Peso da fonte
+text-align = Alinhar texto
+text-decoration = decorar texto com sublinhado, italico, etc
 /*__*/ = Comentarios dentro do CSS3
 cm = Centimetros
 mm = Milimetros
