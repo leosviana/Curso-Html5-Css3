@@ -78,6 +78,7 @@ video - src="caminho_do_arquivo" = Incluir caminho do arquivo de video
 video - controls = Aparece o controle de video no site
 
 CÓDIGOS CSS3
+@charset = @ são regras do css. Essa regra indica a utilização dos caracteres padrão.
 background-color = cor de fundo
 color = cor do conteudo
 font-family = Família de fontes
