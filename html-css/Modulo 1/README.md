@@ -97,7 +97,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 14: Código :arrow_right:  [Estilos Locais / Internos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex014/index.html)<br>
 :point_right: [Estilos 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex014/index.html)
 
-### Exercício 15: Código :arrow_right:  [Estilos Extenos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex015/index.html)<br>
+### Exercício 15: Código :arrow_right:  [Estilos Externos](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%201/Exercicios/ex015/index.html)<br>
 :point_right: [Estilos 3](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%201/Exercicios/ex015/index.html)
 
 # :keyboard: Desafios
