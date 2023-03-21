@@ -23,3 +23,5 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [Pexels](https://www.pexels.com/pt-br/)<br>
 [Símbolos HTML5](https://erikasarti.com/html/dingbats-simbolos-desenhos/)<br>
 [Extra: Terminal no Windows](https://blog.cod3r.com.br/terminal-no-windows/)<br>
+[Adobe Color - Seleção de cores para CSS](https://color.adobe.com/pt/)<br>
+[Capturar cores da página WEB](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR)<br>
