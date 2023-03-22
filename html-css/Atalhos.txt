@@ -80,6 +80,9 @@ video - controls = Aparece o controle de video no site
 CÓDIGOS CSS3
 @charset = @ são regras do css. Essa regra indica a utilização dos caracteres padrão.
 background-color = cor de fundo
+background-image: linear-gradient = cores em degrade
+background-image: linear-gradient(to right, white 10%, blue 20%) = gradiente da direita para esquera, com 10% de branco e 20% de azul
+background-attachment: fixed = cor de fundo fixa
 color = cor do conteudo
 font-family = Família de fontes
 font-size = Tamanho da font
