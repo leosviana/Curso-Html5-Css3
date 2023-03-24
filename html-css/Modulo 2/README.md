@@ -50,7 +50,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 16: Código :arrow_right: [Cores](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%202/Exercicios/ex016/index.html)<br>
+### Exercício 16: Código :arrow_right: [Cores](https://github.com/leosviana/Curso-Html5-Css3/blob/main/html-css/Modulo%202/Exercicios/ex016)<br>
 :point_right: [Cores 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/cor01.html)
 :point_right: [Cores 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/cor02.html)
 :point_right: [Cores 3](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/cor03.html)<br>
