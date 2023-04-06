@@ -21,9 +21,27 @@
             font-size: 16px;   
             /* 16px tamanho padrão */
             /* 1em = 16px */
+            /* font-weight: bolder; /* PESO DA FONTE: lighter, normal, bold, bolder, 100 ~ 900 */
+            /* font-style: italic;  /* ESTILO DA FONTE: italic, normal */
+            /*text-decoration: underline; /* DECORAÇÃO: unserline (sublinhado) */
+
         }
-        h1, h2 {
-            font-family: 'Times New Roman', Times, serif;
+        h1 {
+            /*font-family: 'Work Sans', sans-serif;
+            font-weight: bolder;
+            font-size: 3em;
+            font-style: italic;*/
+
+            /*SHORTHAND FONT (UTILIZAR TODAS AS LINHAS ACIMA EM UMA LINHA SÓ)
+            ESCREVER UM NA FRENTE DO OUTRO NA SEQUENCIA ABAIXO
+            1) font-style
+            2) font-weight
+            3) font-size
+            4) font-family */
+            font: italic bolder 3em 'Work Sans', sans-serif;
+        }
+        h2 {
+            font: bold 2em 'Work Sans';
         }
     </style>
 </head>
