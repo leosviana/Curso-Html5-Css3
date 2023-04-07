@@ -59,11 +59,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Fonte 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex017/fonte01.html)
 :point_right: [Fonte 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex017/fonte02.html)<br>
 
-<!-- ### Exercício 18: Código :arrow_right: [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
-:point_right: [Fonte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex018/fonte01.html)
-:point_right: [Fonte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex018/fonte02.html)<br>
+### Exercício 18: Código :arrow_right: [Fontes com Google fonts](https://github.com/leosviana/Curso-Html5-Css3/tree/main/html-css/Modulo%202/Exercicios/ex018)<br>
+:point_right: [Fonte 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex018/fonte01.html)
+:point_right: [Fonte 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex018/fonte02.html)<br>
 
-### Exercício 19: Código :arrow_right: [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
+<!-- ### Exercício 19: Código :arrow_right: [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
 :point_right: [Seletores Personalizados](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex019/seletor01.html)<br>
 
 ### Exercício 20: Código :arrow_right: [Hover - Links - Pseudo-Classes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex020)<br>
