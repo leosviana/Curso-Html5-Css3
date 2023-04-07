@@ -55,11 +55,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Cores 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/cor02.html)
 :point_right: [Cores 3](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/cor03.html)<br>
 
-<!-- ### Exercício 17: Código :arrow_right: [Fontes](https://github.com/leosviana/Curso-Html5-Css3/tree/main/html-css/Modulo%202/Exercicios/ex017)<br>
-:point_right: [Fonte 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/fonte01.html)
-:point_right: [Fonte 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex016/fonte02.html)<br>
+### Exercício 17: Código :arrow_right: [Fontes](https://github.com/leosviana/Curso-Html5-Css3/tree/main/html-css/Modulo%202/Exercicios/ex017)<br>
+:point_right: [Fonte 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex017/fonte01.html)
+:point_right: [Fonte 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex017/fonte02.html)<br>
 
-### Exercício 18: Código :arrow_right: [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
+<!-- ### Exercício 18: Código :arrow_right: [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
 :point_right: [Fonte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex018/fonte01.html)
 :point_right: [Fonte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex018/fonte02.html)<br>
 
