@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Fontes Externas</title>
+    <style>
+        @font-face {
+            font-family: 'Valentine'; /* PODE COLOCAR O NOME QUE PREFERIR */
+            src: url('fonts/Valentine.otf') format('opentype'), 
+                 url('fonts/Valentine.ttf') format('truetype');
+            /*
+              TIPOS DE FORMAT()
+                - opentype (otf)
+                - truetype(ttf)
+                - embedded-opentype
+                - truetype-att (Apple Advanced Typography)
+                - svg
+            */
+            font-weight: normal;
+            font-style: normal;
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            font-family: 'Valentine', Times, serif;
+            font-size: 3em;
+        }    
+    </style>
+</head>
+<body>
+    <h1>Título ABCDEFGHIJKLMNOPQRSTUVXYWZ</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, minima, debitis facere autem corrupti accusamus impedit modi, optio fugiat officiis nulla! Quibusdam quod ipsa temporibus illum maiores similique et minima.</p>
+    
+</body>
+</html>
