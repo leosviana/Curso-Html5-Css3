@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Gradiente CSS</title>
+    <style>
+        * { /* CONFIGURAÇÃO GLOBAL DO CSS */
+            height: 100%;
+        }
+
+        body {
+            /* COR PADRÃO */
+            /* background-color: rgb(52, 107, 207); COR PADRÃO */
+
+            /* PRIMEIRA FORMA DE FAZER DEGRADE - DUAS CORES */
+            /* background-image: linear-gradient(to right, white, blue); /* PARA DIREITA */
+            /* background-image: linear-gradient(to left, white, blue); /* PARA ESQUERDA */
+            /* background-image: linear-gradient(to top, white, blue); /* PARA CIMA */
+            /* background-image: linear-gradient(to bottom, white, blue); /* PARA BAIXO */
+
+            /* SEGUNDA FORMA DE FAZER DEGRADE - HEXADECIMAL */
+            /* CORES DO ADOBE COLOR > MONOCROMÁTICO     COR C      COR E       COR D */
+            /* background-image: linear-gradient(to right, #35C1F5, #2B99C2, #3D6675); /* PARA DIREITA */
+            background-image: linear-gradient(to right, #35C1F5 10%, #2B99C2, #3D6675); /* PARA DIREITA */
+            /* PARAMETRO DIREÇÃO = to right(direita), to left(esquerda), to top(cima), to bottom(baixo) */
+            /* PARAMETRO DE FORÇA = to right, "cor" xx% (1% ~ 99%)
+
+            /* TERCEIRA FORMA DE FAZER DEGRADE - EM GRAUS */
+            /* CORES DO INSTAGRAM */
+            /* background-image: linear-gradient(45deg, #A645B0, #944DC5, #8B2C64, #D81D4A, #F79D00); */
+
+            /* QUARTA FORMA DE FAZER DEGRADE - EM CIRCULO */
+            /* CORES DO INSTAGRAM */
+            /* background-image: radial-gradient(circle, #A645B0, #944DC5, #8B2C64, #D81D4A, #F79D00); */ 
+
+            background-attachment: fixed; /* FUNDO FIXO */
+        }
+    </style>
+</head>
+    <h1>Testando Gradiente</h1>
+<body>
+    
+</body>
+</html>
