@@ -4,6 +4,10 @@
   Em HTML é id    = Em CSS é #
   Em HTML é class = Em CSS é . 
 
+  HIERARQUIA:
+    h1              --> TERCEIRO À SER UTILIZADO
+    h1 id="nome"    --> SEGUNDO À SER UTILIZADO
+    h1 class="nome" --> PRIMEIRO À SER UTILIZADO
 */
 
 body{
@@ -23,4 +27,20 @@ h1{
 
 h2{
     color: rgb(73, 109, 71);
+}
+
+.basico{ /* UTILIZANDO CLASSE */
+    color: #3c805e;
+}
+
+.intermeiario{
+    color: #807f3c;
+}
+
+.avancado{
+    color: #803c3c;
+}
+
+.destaque{
+    background-color: rgba(194, 194, 80, 0.767);
 }
