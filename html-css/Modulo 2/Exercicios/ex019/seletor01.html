@@ -7,20 +7,25 @@
     <title>Seletores Personalizados</title>
 </head>
 <body>
-    <h1 id="principal">Criando sites com HTML e CSS</h1> <!-- UTILIZANDO SELETOR ID -->
+    <!-- 
+        id = Unico e pode existir apenas uma vez no código HTML
+        class = É multiplo e pode ser usado varias vezes no código HTML
+          **Não dar nome as classes pela forma, mas sim pela funcionalidade.
+    -->
+    <h1 id="principal">Criando sites com HTML e CSS</h1> <!-- UTILIZANDO SELETOR ID NO ELEMENTO -->
     <h1>Aprendendo HTML</h1>
-        <h2>HTML Básico</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae eveniet sint beatae a atque magni tempore nemo, aut assumenda maiores totam molestias vel ducimus recusandae voluptatum cumque quibusdam itaque accusantium.</p>
-        <h2>HTML Intermediário</h2>
+        <h2 class="basico">HTML Básico</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae eveniet sint beatae a atque magni tempore nemo, aut assumenda maiores totam molestias vel ducimus <span class="basico">recusandae voluptatum</span> cumque quibusdam itaque accusantium.</p> <!-- UTILIZANDO CLASSE DENTRO DOS TEXTOS -->
+        <h2 class="intermediario">HTML Intermediário</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum consequuntur pariatur nostrum sapiente soluta repellendus eos, itaque hic, officia, neque laborum ullam in cupiditate sed excepturi distinctio. Eum, provident sit!</p>
-        <h2>HTML Avançado</h2>    
+        <h2 class="avancado">HTML Avançado</h2>    
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, voluptate aspernatur at quidem placeat blanditiis nesciunt accusantium expedita iste molestias officiis. Quasi vero nam labore quo, ratione nihil. Nisi, excepturi?</p>
-    <h1>Aprendendo CSS</h1>
-        <h2>CSS Básico</h2>
+    <h1 class="destaque">Aprendendo CSS</h1>
+        <h2 class="basico">CSS Básico</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur minus rem natus totam nemo neque. Similique deleniti harum minima accusantium, itaque reprehenderit eligendi tempore. Quibusdam nihil dolorem culpa dolorum sint?</p>
-        <h2>CSS Intermediário</h2>
+        <h2 class="intermediario">CSS Intermediário</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus explicabo dignissimos ut fuga praesentium necessitatibus maiores quasi vel repudiandae fugit, voluptatem eum vitae suscipit quia omnis voluptates voluptas voluptatum dolore.</p>
-        <h2>CSS Avançado</h2>
+        <h2 class="avancado destaque">CSS Avançado</h2> <!-- UTILIZANDO UMA CLASSE AO LADO DE OUTRA NO ELEMENTO -->
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam ipsam saepe enim! Consectetur veritatis voluptate, iure quas rem facilis, deleniti earum itaque aliquid pariatur quisquam dolorem quia placeat provident nostrum?</p>
 </body>
 </html>
