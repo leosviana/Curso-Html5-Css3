@@ -190,3 +190,22 @@ MONOCROMIA:
   - SELECIONAR UMA COR PRINCIPAL, MODIFICAR SATURAÇÃO E LUMINOSIDADE POR MAI 3 VEZES;
   - EFEITO DEGRADE;
    FORMANDO-SE 4 CORES;
+
+-----------
+ID:
+  Pode ser utilizado o mesmo nome do ID apenas uma vez nos elementos;
+  
+  Exemplo HTML: id="nome"
+  Exemplo CSS: h1#nome {..} //USAR O #
+
+CLASSE:
+  Pode ser utilizado o mesmo nome da classe varias vezes nos elementos;
+  Exemplo HTML: class="nome"
+  Exemplo CSS: h1.nome{..} //USAR O .
+
+PSEUDOCLASSE:
+  É o estado de um determinado elemento;
+  Exemplo HTML: Usar qualquer elemento
+  Exemplo CSS: div:hover {..} //USAR O :
+    //HOVER: Ao passar o mouse no elemento
+  
