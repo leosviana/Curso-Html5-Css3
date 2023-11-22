@@ -66,12 +66,12 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 19: Código :arrow_right: [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
 :point_right: [Seletores Personalizados](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex019/seletor01.html)<br>
 
-<!-- ### Exercício 20: Código :arrow_right: [Hover - Links - Pseudo-Classes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex020)<br>
-:point_right: [Hover](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/hover.html)
-:point_right: [Links](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/links.html)
-:point_right: [Pseudo-Classes](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/pseudoclass.html)<br>
+### Exercício 20: Código :arrow_right: [Hover - Links - Pseudo-Classes](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex020)<br>
+:point_right: [Hover](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex020/hover.html)
+:point_right: [Links](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex020/links.html)
+:point_right: [Pseudo-Classes](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex020/pseudoclasse.html)<br>
 
-### Exercício 21: Código :arrow_right: [Caixas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex021)<br> 
+<!-- ### Exercício 21: Código :arrow_right: [Caixas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex021)<br> 
 :point_right: [Caixa 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa01.html)
 :point_right: [Caixa 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa02.html)
 :point_right: [Caixa 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa03.html)<br> -->
