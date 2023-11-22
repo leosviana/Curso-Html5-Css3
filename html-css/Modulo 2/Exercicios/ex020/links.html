@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        /* SELETORES PERSONALIZADOS
+          #  -> id
+          .  -> class
+          :  -> pseudo-classe
+          :: -> pseudo-element
+          >  -> children (filho)
+        */
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a{ /* LINKS */
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited{ /* PSEUDO-CLASSE: LINKS VISITADOS */
+            color: darkred;
+        }
+        a:hover{ /* PSEUDO-CLASSE: LINKS AO PASSAR O MOUSE */
+            color: black;
+            text-decoration: underline;
+        }
+        a:active{ /* PSEUDO-CLASSE: QUANDO CLICAR O MOUSE */
+            color: yellow;
+        }
+        a::before{ /* PSEUDO-ELEMENTO: ANTES DO LINK... */
+            content: ' ✏'; /* CONTENT = CONTEÚDO */
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgrey;
+        }
+        a::after{ /* PSEUDO-ELEMENTO: APÓS O LINK... */
+            content: ' ☑'; /* CONTENT = CONTEÚDO */
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgrey;
+        }
+
+        .especial{ /* CLASSES COM NOME "ESPECIAL" */
+            color: rgb(255, 138, 138);
+        }
+        .especial::before{ /* PSEUDO-ELEMENTO: ANTES... */
+            content: '▶';
+        }
+        .especial::after{ /* PSEUDO-ELEMENTO: DEPOIS... */
+            content: '◀';
+        }        
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://gustavoguanabara.github.io">Respositório GitHub</a></li>
+
+        <li><a href="https://youtube.com.br/cursoemvideo" class="especial">Canal do Youtube</a></li>
+
+        <li><a href="https://www.cursoemvideo.com" class="especial">Site do Curso em vídeo</a></li>
+    </ul>    
+</body>
+</html>
