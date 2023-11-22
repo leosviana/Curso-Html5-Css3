@@ -63,7 +63,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Fonte 1](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex018/fonte01.html)
 :point_right: [Fonte 2](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex018/fonte02.html)<br>
 
-### Exercício 19: Código :arrow_right: [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
+### Exercício 19: Código :arrow_right: [Seletores Personalizados](https://github.com/leosviana/Curso-Html5-Css3/tree/main/html-css/Modulo%202/Exercicios/ex019)<br>
 :point_right: [Seletores Personalizados](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex019/seletor01.html)<br>
 
 ### Exercício 20: Código :arrow_right: [Hover - Links - Pseudo-Classes](https://leosviana.github.io/Curso-Html5-Css3/html-css/Modulo%202/Exercicios/ex020)<br>
