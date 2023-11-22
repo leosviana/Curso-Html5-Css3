@@ -79,6 +79,13 @@ video - controls = Aparece o controle de video no site
 
 CÓDIGOS CSS3
 @charset = @ são regras do css. Essa regra indica a utilização dos caracteres padrão.
+/*__*/ = Comentarios dentro do CSS3
+Seletores personalizados:
+  #  = id
+  .  = class
+  :  = pseudo-classe
+  :: = pseudo-element
+  >  = children (filho)
 background-color = cor de fundo
 background-image: linear-gradient = cores em degrade
 background-image: linear-gradient(to right, white 10%, blue 20%) = gradiente da direita para esquera, com 10% de branco e 20% de azul
@@ -89,7 +96,6 @@ font-size = Tamanho da font
 font-weight = Peso da fonte
 text-align = Alinhar texto
 text-decoration = decorar texto com sublinhado, italico, etc
-/*__*/ = Comentarios dentro do CSS3
 cm = Centimetros
 mm = Milimetros
 in = Polegada
@@ -103,6 +109,7 @@ vw = Largura da tela (Porcentagem da tela)
 vh = Altura da tela (Porcentagem da tela)
 % = Porcentagem
 Weight = Peso
+
 ----CAIXA----
 width = Largura
 height = Altura
@@ -203,9 +210,17 @@ CLASSE:
   Exemplo HTML: class="nome"
   Exemplo CSS: h1.nome{..} //USAR O .
 
-PSEUDOCLASSE:
+PSEUDO-CLASSE:
   É o estado de um determinado elemento;
   Exemplo HTML: Usar qualquer elemento
-  Exemplo CSS: div:hover {..} //USAR O :
-    //HOVER: Ao passar o mouse no elemento
-  
+  Exemplo CSS: 
+    div:hover {..} -> Ao passar o mouse no elemento div
+    a:visited {..} -> Links visitados
+    a:hover   {..} -> Ao passar o mouse nos links
+    a:active  {..} -> Ao clicar no link
+
+PSEUDO-ELEMENTO:
+  É o estado de um determinado elemento antes ou depois do elemento principal;
+  Exemplo CSS:
+    a::before {..} -> Aparecer algo antes do link
+    a::after  {..} -> Aparecer algo depois do link    
